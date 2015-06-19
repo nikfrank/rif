@@ -1,5 +1,6 @@
-This is a simple generator (on clone) app for angular 1.4 ish
+rif
+---
 
-This demonstrates the move towards component based apps
+this is a little demo fitness tracking app
 
-However, it is yet to implement any ES6 features.
+describe some exercises, do a workout, see some charts
