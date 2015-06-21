@@ -1,7 +1,7 @@
 'use strict';
 
-angular.module('pro')
-    .directive('navBar', function () {
+angular.module('rif')
+    .directive('navBar', function(){
 	return {
 	    templateUrl: 'components/navbar.html',
 	    restrict: 'A',

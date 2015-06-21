@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('pro')
+angular.module('rif')
     .controller('HomeCtrl', function($scope, $http, $state, $stateParams){
 
 	

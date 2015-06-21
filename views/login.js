@@ -1,8 +1,8 @@
 'use strict';
 
-angular.module('pro')
+angular.module('rif')
     .controller('LoginCtrl', function($scope, $http, $state, $stateParams){
-
+	
 	
     });
 

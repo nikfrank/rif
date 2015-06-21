@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('pro')
+angular.module('rif')
   .service('auth', function($http, $q){
 
       var that = this;
